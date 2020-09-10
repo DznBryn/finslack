@@ -1,0 +1,4 @@
+{
+	"mongoURI": "mongodb+srv://admin-brian:aWzIKcAFjpyp9IWS@bws-db.zibfb.mongodb.net/bws-db?retryWrites=true&w=majority",
+	"jwt_Key": "S}@pg(62~`+/21&uRkd-X/A</V;]nKRy"
+}
